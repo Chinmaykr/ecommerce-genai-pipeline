@@ -1,3 +1,7 @@
+## Live Demo
+🚀 https://your-app-url.streamlit.app
+
+
 # E-Commerce Product Intelligence Pipeline with GenAI / RAG
 
 An end-to-end data + GenAI pipeline built with free and open-source tools.
